@@ -22,13 +22,13 @@ In the `pubspec.yaml` of your flutter project, add the following dependency:
 ```yaml
 dependencies:
   ...
-  geoip: <latest_version>
+  geoip_api: <latest_version>
 ```
 
 In your library add the following import:
 
 ```dart
-import 'package:geoip/geoip.dart';
+import 'package:geoip_api/geoip_api.dart';
 ```
 
 ## Preview

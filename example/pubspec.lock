@@ -75,7 +75,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  geoip:
+  geoip_api:
     dependency: "direct main"
     description:
       path: ".."

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:geoip/geoip_api.dart';
+import 'package:geoip_api/geoip_api.dart';
 
 void main() {
   runApp(const MyApp());

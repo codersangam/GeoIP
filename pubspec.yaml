@@ -1,6 +1,6 @@
 name: geoip_api
 description: "A lightweight Flutter/Dart package to fetch geolocation and IP address information."
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/codersangam/GeoIP_API.git
 examples: https://github.com/codersangam/GeoIP_API/tree/main/example
 topics: [location, geoip, geolocation, country, asn]
