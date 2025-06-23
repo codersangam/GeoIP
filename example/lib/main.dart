@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:geoip/geoip.dart';
+import 'package:geoip/geoip_api.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,11 +11,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'GeoIp Demo',
+      title: 'GeoIp API Demo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'GeoIp Example Page'),
+      home: const MyHomePage(title: 'GeoIp API Example Page'),
     );
   }
 }
